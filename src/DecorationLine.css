@@ -1,0 +1,33 @@
+.decoration-line {
+  width: auto;
+  max-width: 80vw;
+  height: 100vh;
+  min-height: 100vh;
+  display: block;
+  margin: 0 auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.line-inverted{
+  transform: scaleX(-1);
+  transform: scaleY(-1);
+}
+
+
+@media(max-width: 860px){
+  .decoration-line{
+    display: none;
+  }
+}
+
+@media(orientation: landscape) and (max-width: 1500px){
+  .decoration-line{
+    display: none;
+  }
+}
