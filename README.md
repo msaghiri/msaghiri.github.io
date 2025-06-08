@@ -1,12 +1,30 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My personal portfolio website built with React and hosted on GitHub Pages. A clean, responsive showcase of my projects, skills, and professional background.
 
-Currently, two official plugins are available:
+## Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[View Portfolio](https://msaghiri.github.io)
 
-## Expanding the ESLint configuration
+## About
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This is my personal portfolio featuring:
+
+- **Header**: Contact links, including my resume
+- **About Me**: Introduction, technical skills, and background
+- **Projects**: Showcase of my completed projects with descriptions and links
+
+## Tech Stack
+
+- React
+- HTML
+- CSS
+- GitHub Pages (hosting)
+
+## Projects Featured
+
+This portfolio showcases several of my projects including:
+- Sleep Score (a machine learning powered web application)
+- Quantum Leap (a game made in the Godot engine)
+
+Built with responsive design principles to look great on both desktop and mobile devices.
